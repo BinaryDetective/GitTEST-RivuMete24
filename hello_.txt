@@ -1,2 +1,2 @@
 Hello, This is Rivu Mete testing GitHub Desktop!
-added hello.txt
+Added hello.txt
